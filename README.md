@@ -1,2 +1,2 @@
 # lineinterceptraycaster
-The vector graphics equivalent of a raycaster
+The raycasting equivalent of vector graphics
